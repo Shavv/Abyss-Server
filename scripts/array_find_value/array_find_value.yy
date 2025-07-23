@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"array_find_value",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"array_find_value",
+  "parent":{
+    "name":"array",
+    "path":"folders/Scripts/Scripting/array.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

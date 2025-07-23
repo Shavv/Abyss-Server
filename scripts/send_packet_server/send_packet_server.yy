@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"send_packet_server",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"send_packet_server",
+  "parent":{
+    "name":"server",
+    "path":"folders/Scripts/Networking/server.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

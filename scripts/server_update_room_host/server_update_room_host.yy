@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"server_update_room_host",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"server_update_room_host",
+  "parent":{
+    "name":"server",
+    "path":"folders/Scripts/Networking/server.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

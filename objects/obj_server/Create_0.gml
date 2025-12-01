@@ -1,5 +1,5 @@
 /// @description
-server_socket = network_create_server(network_socket_udp,PORT,MAX_CLIENTS)
+server_socket = network_create_server(network_socket_tcp,PORT,MAX_CLIENTS)
 server_logs = [""]
 server_log_max_size = 27
 client_array = []
